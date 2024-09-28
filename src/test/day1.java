@@ -28,6 +28,7 @@ public class day1 {
 		System.out.println("hello");
 		System.out.println(urlname);
 		System.out.println("hello first time");
+		System.out.println("hello by amerian guy");
 	}
 	@Test
 	public void demo1()
