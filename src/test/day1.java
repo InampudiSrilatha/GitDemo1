@@ -27,6 +27,7 @@ public class day1 {
 	{
 		System.out.println("hello");
 		System.out.println(urlname);
+		System.out.println("hello first time");
 	}
 	@Test
 	public void demo1()
