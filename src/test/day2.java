@@ -17,4 +17,9 @@ public void prerequist()
 	System.out.println("i will execute first");
 	System.out.println("this changes done by american guy");
 }
+public void ploan1()
+{
+	System.out.println("good done by developer");
+
+}
 }

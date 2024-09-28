@@ -30,6 +30,15 @@ public class day1 {
 		System.out.println("hello first time");
 		System.out.println("hello by amerian guy");
 	}
+	@Parameters ({ "URL" })
+	@Test
+	public void demo1(String urlname)
+	{
+		System.out.println("hello");
+		System.out.println(urlname);
+		System.out.println("hello first time by developer");
+		System.out.println("hello by amerian guy by developer");
+	}
 	@Test
 	public void demo1()
 	{
