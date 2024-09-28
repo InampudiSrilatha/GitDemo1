@@ -22,4 +22,9 @@ public void ploan1()
 	System.out.println("good done by developer");
 
 }
+public void ploan2()
+{
+	System.out.println("good done by asian development team");
+
+}
 }
